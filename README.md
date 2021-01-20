@@ -1,6 +1,6 @@
 # antlr4-oracle
 
-Install
+Preparation steps
     sudo apt-get install -y antlr4
     chmod +x *.sh
 
