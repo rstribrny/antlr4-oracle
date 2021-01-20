@@ -1,5 +1,9 @@
 # antlr4-oracle
 
+Install
+    sudo apt-get install -y antlr4
+    chmod +x *.sh
+
 Original grammar can be found at https://github.com/antlr/grammars-v4.
 
 To build java files and classes use:
