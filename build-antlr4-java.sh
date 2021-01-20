@@ -1,7 +1,9 @@
-#!/bin/sh
+#!/bin/bash
 current_dir=$(dirname $0)
+echo "$0: CURRENT DIR:$current_dir"
 
 ###############################################################################
+echo $current_dir/common.sh
 source $current_dir/common.sh
 ###############################################################################
 

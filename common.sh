@@ -1,5 +1,5 @@
-#!/bin/sh
 current_dir=$(dirname $0)
+echo "$0: CURRENT DIR:$current_dir"
 
 ###############################################################################
 antlr='antlr-4.5.3-complete.jar'
