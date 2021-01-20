@@ -10,7 +10,7 @@ To build java files and classes use:
 ./build-antlr4.sh
 
 To analyze files use:
-./analyze.sh [-tokens] [-gui] < files >
+./analyze.sh [-tokens] [-tree] [-gui] [-trace] < files >
 
 Interesting:
 https://habrahabr.ru/post/259691/
